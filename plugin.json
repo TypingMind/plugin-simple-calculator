@@ -1,0 +1,24 @@
+{
+  "uuid": "8cbc7b5b-62bd-428a-83a3-448f51bff58e",
+  "id": "get_calculation_result",
+  "emoji": "🧮",
+  "userSettings": null,
+  "system": true,
+  "title": "Simple Calculator",
+  "openaiSpec": {
+    "name": "get_calculation_result",
+    "description": "Calculate a math expression. For example, \"2 + 2\" or \"2 * 2\". The expression must be a valid JavaScript math expression.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "expression": {
+          "type": "string",
+          "description": "A valid JavaScript math expression for the calculation."
+        }
+      },
+      "required": ["keyword"]
+    }
+  },
+  "implementationType": "javascript",
+  "outputType": "respond_to_ai"
+}
