@@ -3,7 +3,6 @@
   "id": "get_calculation_result",
   "emoji": "🧮",
   "userSettings": null,
-  "system": true,
   "title": "Simple Calculator",
   "openaiSpec": {
     "name": "get_calculation_result",
