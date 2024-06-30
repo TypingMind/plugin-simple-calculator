@@ -15,7 +15,7 @@
           "description": "A valid JavaScript math expression for the calculation."
         }
       },
-      "required": ["keyword"]
+      "required": ["expression"]
     }
   },
   "implementationType": "javascript",
