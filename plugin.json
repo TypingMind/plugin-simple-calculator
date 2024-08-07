@@ -7,6 +7,7 @@
   "openaiSpec": {
     "name": "get_calculation_result",
     "description": "Calculate a math expression. For example, \"2 + 2\" or \"2 * 2\". The expression must be a valid JavaScript math expression.",
+    "strict": true,
     "parameters": {
       "type": "object",
       "properties": {
