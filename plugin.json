@@ -4,6 +4,7 @@
   "emoji": "🧮",
   "userSettings": null,
   "title": "Simple Calculator",
+  "iconURL": "https://custom.typingmind.com/assets/plugins/simple-calculator.webp",
   "openaiSpec": {
     "name": "get_calculation_result",
     "description": "Calculate a math expression. For example, \"2 + 2\" or \"2 * 2\". The expression must be a valid JavaScript math expression.",
